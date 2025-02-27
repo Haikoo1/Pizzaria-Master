@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #ff5757;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 100px;
+    font-weight: bold;
+}
+
+body {
+    font-family: Lato, sans-serif;
+    margin: 0px;
+}
+
+.navlinks {
+    text-decoration: none;
+    color: #e8d800;
+    margin: 20px 30px;
+    position: relative;
+    right: 260px;
+}
+
+.logo {
+    height: 140px;
+    width: auto;
+    padding: 5px 210px;
+    position: relative;
+    left: 65px;
+}
+
+.cards-section {
+    margin: 0% 23%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.card1 {
+    border: 1px solid #141302;
+    border-radius: 8px;
+    width: 170px;
+    height: 200px;
+    padding: 80px 40px 135px 40px;
+    margin: 15px;
+    text-align: center;
+}
+
+.card2 {
+    border: 1px solid #131203;
+    border-radius: 8px;
+    width: 170px;
+    height: 200px;
+    padding: 80px 40px 135px 40px;
+    margin: 15px;
+    text-align: center;
+}
+
+.card3 {
+    border: 1px solid #e8d800;
+    border-radius: 8px;
+    width: 170px;
+    height: 200px;
+    padding: 80px 40px 135px 40px;
+    margin: 15px;
+    text-align: center;
+}
+
+.img-card {
+    width: 160px;
+    height: 150px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 80px;
+    left: 1px;
+}
+
+p {
+    padding: 65px 0px;
+    position: relative;
+    bottom: 145px;
+}
+.super {
+    position: relative;
+    bottom: 150px;
+}
+h4 {
+    margin: -85px 0px;
+    position: relative;
+    bottom: 130px;
+}
+.h4-1 {
+    margin: -85px 0px;
+    position: relative;
+    bottom: 135px;
+}
+.titulo {
+    position: relative;
+    bottom: 70px;
+    font-size: 20px
+}
+
+.botao-pedir {
+    text-decoration: none;
+    background-color: #ff5757;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    position: relative;
+    bottom: 5px;
+}
+
+.botao-pedir1 {
+    text-decoration: none;
+    background-color: #ff5757;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    position: relative;
+    bottom: 10px;
+}
